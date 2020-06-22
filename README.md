@@ -1,4 +1,4 @@
-# google-vision-sampler
+# google-vision-api
 
 Code examples for Google Vision API written in Python.
 
